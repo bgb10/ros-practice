@@ -24,7 +24,8 @@ setup(
     entry_points={
         'console_scripts': [
             'turtlesim_circle = ros_tutorial.turtlesim_circle:main',
-            'turtlesim_echo = ros_tutorial.turtlesim_echo:main'
+            'turtlesim_echo = ros_tutorial.turtlesim_echo:main',
+            'turtlesim_abs_client = ros_tutorial.turtlesim_abs_client:main'
         ],
     },
 )
