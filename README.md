@@ -1,2 +1,3 @@
-
 - Basics: Node, rqt_graph, package, launch, param, dump
+- Topic: N:N, pub-sub, one directional
+- Service: 1:1, call-and-response(request/response), server/client
